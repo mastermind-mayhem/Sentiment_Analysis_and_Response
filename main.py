@@ -1,4 +1,4 @@
-import os, time, math
+# import os, time, math
 
 feels = 5
 fphrase = ""
