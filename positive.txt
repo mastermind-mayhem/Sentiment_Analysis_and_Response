@@ -10,3 +10,4 @@ pretty
 handsome
 awesome
 amazing
+happy
